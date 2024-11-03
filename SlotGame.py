@@ -46,5 +46,4 @@ def play_slot_game():
     except ZeroDivisionError and ValueError:
         print("At First Add Some Money!!")
 
-
 play_slot_game()
