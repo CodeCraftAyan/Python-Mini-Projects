@@ -11,6 +11,7 @@ A collection of simple and fun Python projects designed for beginners and enthus
   - [4. Rock Paper Scissors](#4-rock-paper-scissors)
   - [5. Slot Machine Game](#5-slot-machine-game)
   - [6. Weather App](#6-weather-app)
+  - [7. Pokedex](#7-pokedex)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [License](#license)
@@ -88,6 +89,18 @@ A terminal-based application that fetches and displays current weather data for 
 **File:** `WeatherApp.py`
 
 ---
+### 7. Pokedex
+
+A terminal-based tool that fetches information about any Pokémon by name or ID using the PokéAPI.
+
+**Features:**
+- Fetches and displays Pokémon details such as types, abilities, stats, and moves.
+- Allows users to customize the number of moves displayed.
+- Provides links to Pokémon sprite images.
+
+**File:** `Pokedex.py`
+
+---
 
 ## Technologies Used
 
@@ -115,3 +128,4 @@ A terminal-based application that fetches and displays current weather data for 
    ```
 
 **Note:** For the Weather App, replace the `api_key` variable with your OpenWeather API key.
+**Note:** For the Pokedex, ensure you have an active internet connection to access the PokéAPI.
