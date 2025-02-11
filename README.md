@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/00e6cad9-4dcc-4454-9a39-38356f746a48" alt="Python Logo" height="100">
+</div>
+
 # Python Mini Projects
 
 A collection of simple and fun Python projects designed for beginners and enthusiasts to enhance their programming skills. Each project focuses on a specific concept or application, providing hands-on learning and practical implementation of Python.
