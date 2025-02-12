@@ -16,6 +16,7 @@ A collection of simple and fun Python projects designed for beginners and enthus
   - [5. Slot Machine Game](#5-slot-machine-game)
   - [6. Weather App](#6-weather-app)
   - [7. Pokedex](#7-pokedex)
+  - [8. Tic Tac Toe](#8-tic-tac-toe)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [License](#license)
@@ -105,7 +106,18 @@ A terminal-based tool that fetches information about any Pokémon by name or ID 
 **File:** `Pokedex.py`
 
 ---
+### 8. Tic Tac Toe
 
+A simple terminal-based Tic Tac Toe game where you play against the computer.
+
+**Features:**
+- Classic 3x3 Tic Tac Toe gameplay.
+- Play as "X" while the computer plays as "O".
+- Detects wins, losses, and ties automatically.
+
+**File:** `TicTacToe.py`
+
+---
 ## Technologies Used
 
 - **Python**: The core programming language for all projects.
