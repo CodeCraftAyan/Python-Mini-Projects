@@ -145,3 +145,11 @@ A simple terminal-based Tic Tac Toe game where you play against the computer.
 
 **Note:** For the Weather App, replace the `api_key` variable with your OpenWeather API key.
 **Note:** For the Pokedex, ensure you have an active internet connection to access the PokéAPI.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
