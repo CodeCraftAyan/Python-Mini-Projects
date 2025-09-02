@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/00e6cad9-4dcc-4454-9a39-38356f746a48" alt="Python Logo" height="100">
+  <img src="https://github.com/user-attachments/assets/00e6cad9-4dcc-4454-9a39-38356f746a48" alt="Python Logo" height="110">
 </div>
 
 # Python Mini Projects
